@@ -124,8 +124,6 @@ streamlit run src/app.py
 
 ---
 
-Would you like me to add a "Troubleshooting" section to this README to help with common API or Environment errors?
-
 # Course Materials Distribution
 
 Welcome to the distribution of the course materials. This folder contains all the necessary resources for your labs and homework, excluding the solutions.
@@ -145,14 +143,4 @@ cd YOUR_FORKed_REPO
 ### 3. Set Up Your Environment
 Follow the instructions in the root `README.md` (if available) or the specific module `README.md` files to set up your Python environment and dependencies.
 
-## Viewing Slides
-The slides are provided as HTML files in the `slides/output` directory of each module. You can view them directly in your browser:
-1.  Navigate to the `slides/output` directory of a module (e.g., `01_architecture_fundamentals/slides/output`).
-2.  Open the `.html` file in your preferred web browser.
-
-## Directory Structure
-- `lab`: Contains the lab exercises.
-- `homework`: Contains the homework assignments.
-- `slides/output`: Contains the generated lecture slides (HTML/PDF).
-
-Happy Learning!
+**developed by sarah alowjan**
